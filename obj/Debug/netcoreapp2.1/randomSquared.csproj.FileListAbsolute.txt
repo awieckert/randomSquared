@@ -1,0 +1,11 @@
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\bin\Debug\netcoreapp2.1\randomSquared.deps.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\bin\Debug\netcoreapp2.1\randomSquared.runtimeconfig.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\bin\Debug\netcoreapp2.1\randomSquared.runtimeconfig.dev.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\bin\Debug\netcoreapp2.1\randomSquared.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\bin\Debug\netcoreapp2.1\randomSquared.pdb
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\obj\Debug\netcoreapp2.1\randomSquared.csprojAssemblyReference.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\obj\Debug\netcoreapp2.1\randomSquared.csproj.CoreCompileInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\obj\Debug\netcoreapp2.1\randomSquared.AssemblyInfoInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\obj\Debug\netcoreapp2.1\randomSquared.AssemblyInfo.cs
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\obj\Debug\netcoreapp2.1\randomSquared.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\randomSquared\obj\Debug\netcoreapp2.1\randomSquared.pdb
